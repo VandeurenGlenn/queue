@@ -1,0 +1,21 @@
+{
+  "name": "@vandeurenglenn/queue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "queue.js",
+  "module": "queue.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VandeurenGlenn/queue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VandeurenGlenn/queue/issues"
+  },
+  "homepage": "https://github.com/VandeurenGlenn/queue#readme"
+}
